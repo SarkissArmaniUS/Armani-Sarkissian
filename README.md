@@ -9,6 +9,4 @@ I'm Arman from Ukraine, and I do content on Designe and Development. I really en
 * React
 * HTML, CSS, JS
 
-Skills: HTML / CSS / JS / NODE / REACT
-
 - 🔭 I’m currently working on this page.
