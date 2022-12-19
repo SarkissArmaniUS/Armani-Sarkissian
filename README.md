@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/SarkissArmaniUS/Armani-Sarkissian/blob/main/Armani_GH_Port.jpg)
+![Development](https://github.com/SarkissArmaniUS/Armani-Sarkissian/blob/main/Armani_GitHub_Port.jpg)
 
 # Arman Sarkissian
 
